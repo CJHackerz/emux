@@ -8,4 +8,4 @@ AC15,qemu-system-arm-7.2.0,vexpress-a9,,,256M,zImage-2.6.39.4-vexpress,VEXPRESS2
 ARCHERC9,qemu-system-arm-7.2.0,vexpress-a9,,,256M,zImage-2.6.39.4-vexpress,VEXPRESS2,Archer C9 Wi-Fi Router
 DIR615C,qemu-system-mips-7.2.0,malta,,,128M,vmlinux-2.6.30.9-malta-be,MALTA2,D-Link DIR615C Wi-Fi Router
 DCS935L,qemu-system-mips-7.2.0,malta,,,128M,vmlinux-2.6.30.9-malta-be,MALTA2,D-Link DCS-935L Camera
-OWASP-IoTGoat,qemu-system-arm-7.2.0,versatilepb,arm1176,,265M,zImage-4.9.152-OpenWRT,VERSATILEPB,OWASP IoTGoat Project
+OWASP-IoTGoat,qemu-system-arm-7.2.0,vexpress-a9,,,1024M,zImage-3.16.57-vexpress,VEXPRESS2,OWASP IoTGoat Project
