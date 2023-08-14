@@ -1,0 +1,9 @@
+# OWASP IoTGoat Project
+# https://github.com/OWASP/IoTGoat
+# Contributed by CJHackerz (Chirag Jariwala)
+id=OWASP-IoTGoat
+nvram=
+rootfs=squashfs-root
+randomize_va_space=0
+#ld_preload=preload
+initcommands="/etc/init.d/rcS;/bin/sh"
